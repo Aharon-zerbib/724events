@@ -122,7 +122,7 @@ const Page = () => {
               label="boom"
             />
           ) : (
-            <p> pas disponible</p>
+            <div> </div>
           )}
         </div>
         <div className="col contact">
